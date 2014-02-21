@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/'
+let g:netrw_dirhist_2='/Users/alan/development/Sage/na_sage_one/sage_one_host'
+let g:netrw_dirhist_3='/Users/alan/development/sandbox/sir_judgington'
+let g:netrw_dirhist_4='/'
